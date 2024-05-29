@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-
+#join our telegram channel for more https://t.me/NS8_B 
 # Setup the bot
 
 bot = telebot.TeleBot(TOKEN_BOT)
