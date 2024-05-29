@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Setup the bot
-TOKEN = '6584564225:AAHQLqCeuvikCWg-a-SC-ueY41-LpzKQYM0'
+TOKEN = 'TELEGRAM BOT API TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Dictionaries to keep track of user states
