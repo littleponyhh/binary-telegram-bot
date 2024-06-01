@@ -1,4 +1,13 @@
-this telegram bot has tottaly devloped and published by NS_8
+#binary telegram bot
+this bot is able to turn a normal string into a binary code and also capable of turn a binary code into a normal string
 
-our telegram channel : https://t.me/NS8_b
-the main file name has no connection with the idea :)
+#usage
+first make /start in the bot
+then make a choice: text to binary/binary to text
+
+#requirments
+pyTelegramBot
+
+
+#our telegram channel
+https://t.me/NS8_b 
