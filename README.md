@@ -2,6 +2,7 @@
 
 Welcome to the Binary Text Converter Bot! This Telegram bot allows you to convert any text into binary code with ease.
 
+better use the forks versions
 ## Features
 
 - **Text to Binary Conversion:** Convert any given text into binary format.
